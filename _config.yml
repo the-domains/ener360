@@ -1,0 +1,14 @@
+layout_spectrum: 0.6428972
+color:
+  saturation: 0.5948647
+  lightness: 0.6826586
+  brandStrength: 0.2600998
+  brandColors:
+    - '#FFFFFF'
+    - '#D0DEE9'
+    - '#0E6497'
+    - '#3980AA'
+    - '#649CBD'
+  rhythmicContrast: 0.9324551
+typography_spectrum: 0.1687803
+name: ener360
